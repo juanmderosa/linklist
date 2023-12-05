@@ -13,8 +13,9 @@ Desafío de programación de [HolaJuniors](https://holajuniors.com).
 
 ## Screenshots y vista previa
 
-- Screenshot [Screenshot](./src/assets/screenshot.png)
-- Live Site [LiveSite](https://juanmderosa.github.io/linklist/)
+-![Screnshot](./src/assets/screenshot.png)
+
+-[LiveSite](https://juanmderosa.github.io/linklist/)
 
 ## Instalación
 
