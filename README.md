@@ -13,8 +13,8 @@ Desafío de programación de [HolaJuniors](https://holajuniors.com).
 
 ## Vista Previa
 
-IMPORTANTE: Si bien el sitio se ve correctamente en todas las medidas está pensado principalmente para visualizarse en tablets y smartphones
--Ver sitio: [LiveSite](https://juanmderosa.github.io/linklist/)
+- IMPORTANTE: Si bien el sitio se ve correctamente en todas las medidas está pensado principalmente para visualizarse en tablets y smartphones
+- Ver sitio: [LiveSite](https://juanmderosa.github.io/linklist/)
 
 ## Screenshots
 
@@ -24,9 +24,9 @@ IMPORTANTE: Si bien el sitio se ve correctamente en todas las medidas está pens
 
 Para correr este proyecto en forma local:
 
-1- Clonar Proyecto
-2- Ejecutar npm install en el directorio principal del proyecto
-3- Ejecutar npm run dev
+- 1- Clonar Proyecto
+- 2- Ejecutar npm install en el directorio principal del proyecto
+- 3- Ejecutar npm run dev
 
 ## Información sobre mi:
 
