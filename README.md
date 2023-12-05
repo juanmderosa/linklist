@@ -11,11 +11,13 @@ Desafío de programación de [HolaJuniors](https://holajuniors.com).
 - HTML semántico
 - CSS3
 
+## Vista Previa
+
+-Ver sitio: [LiveSite](https://juanmderosa.github.io/linklist/)
+
 ## Screenshots y vista previa
 
 -![Screnshot](./src/assets/screenshot.png)
-
--[LiveSite](https://juanmderosa.github.io/linklist/)
 
 ## Instalación
 
