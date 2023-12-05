@@ -13,9 +13,10 @@ Desafío de programación de [HolaJuniors](https://holajuniors.com).
 
 ## Vista Previa
 
+IMPORTANTE: Si bien el sitio se ve correctamente en todas las medidas está pensado principalmente para visualizarse en tablets y smartphones
 -Ver sitio: [LiveSite](https://juanmderosa.github.io/linklist/)
 
-## Screenshots y vista previa
+## Screenshots
 
 -![Screnshot](./src/assets/screenshot.png)
 
